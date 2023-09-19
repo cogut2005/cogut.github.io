@@ -21,3 +21,9 @@
 
 - name: C
   weight: 2
+
+- name: R
+  weight: 1
+
+- name: SQL
+  weight: 4

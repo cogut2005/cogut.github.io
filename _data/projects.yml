@@ -17,7 +17,13 @@
   descr: The professional certiciation about AI which was given by IBM
   demo: https://example.com/
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: IBM Watson
+    - tag: Python
+
+- name: Data Analytics Proffesional Certificate
+  descr: The professional certiciation about data analysis which was given by Google
+  demo: https://example.com/
+  tags:
+    - tag: Spreadsheets
+    - tag: SQL
+    - tag: R
