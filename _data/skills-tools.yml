@@ -8,8 +8,11 @@
 - name: Git
   weight: 3
 
-- name: Bash
-  weight: 3
-
 - name: VS Code
   weight: 5
+
+- name: Pandas
+  weight: 4
+
+- name: Brew
+  weight: 4

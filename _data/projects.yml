@@ -27,3 +27,12 @@
     - tag: Spreadsheets
     - tag: SQL
     - tag: R
+
+- name: Sabanci University Summer High School 
+  descr: 2 week long summer high school 
+  demo: https://example.com/
+  tags:
+    - tag: Quantum Physichs
+    - tag: Machine Learning
+    - tag: Endustrial Engineering
+    - tag: Data Science

@@ -20,6 +20,12 @@
   title-url: https://example.com/
   date: 24.07.2023 - 04.09.2023
   subtitle:
+  timeline-side: left
+
+- title: Fencing National Team of Turkey
+  title-url: https://example.com/
+  date: 03.2023 - 07.2023
+  subtitle:
   timeline-side: right
 
 - title: Istanbul Erkek High School
@@ -27,3 +33,9 @@
   date: 2019 - 2024
   subtitle:
   timeline-side: left
+
+- title: Bahcesehir Collage
+  title-url: https://example.com/
+  date: 2010 - 2019
+  subtitle:
+  timeline-side: right

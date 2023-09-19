@@ -14,7 +14,7 @@ baseurl: ""
 username: Cinar Ogut
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Student & Programmer
+typing_text: Student & Programmer & Fencer
 # email: Your E-Mail address for the email button.
 email: cinarogut@protonmail.com
 # For every social button you want to display, set your username or userid
@@ -23,7 +23,7 @@ email: cinarogut@protonmail.com
 github_username: cogut2005
 codepen_username: 
 dev_username: 
-linkedin_username: Cinar Ogu
+linkedin_username: Cinar Ogut
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -48,7 +48,7 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title: My Journey
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://example.com/
@@ -70,7 +70,7 @@ projects_title: Certificates
 # > setting this to false, will omit your public projects on github
 show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: Open Source Projects
+os_projects_title: Open Source Projects On Github
 
 # CONTACT SECTION
 # show_contact_card:
