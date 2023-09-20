@@ -2,6 +2,9 @@
 
 # GENERAL SITE SETTINGS
 remote_theme: neumorphism 
+
+
+date: <%= Time.now.strftime('%Y-%m-%d %H:%M:%S %z') %>
 # title: This will be displayed as the website's name in your browser tab.
 title: Cogut
 # description: This will be meta HTML tag content. This can be ignored.
@@ -9,7 +12,6 @@ description: This is Cinar Ogut's Personal Website
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
-remote_theme: neumorphism
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
 username: Cinar Ogut
