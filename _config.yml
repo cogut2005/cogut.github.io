@@ -1,7 +1,7 @@
 ### VALUES YOU SHOULD CHANGE ###
 
 # GENERAL SITE SETTINGS
-remote_theme: Neumorphism 
+remote_theme: neumorphism 
 # title: This will be displayed as the website's name in your browser tab.
 title: Cogut
 # description: This will be meta HTML tag content. This can be ignored.
