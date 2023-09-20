@@ -15,14 +15,14 @@
 
 - name: Applied AI Professional Certificate
   descr: The professional certiciation about AI which was given by IBM
-  demo: https://example.com/
+  demo: https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai
   tags:
     - tag: IBM Watson
     - tag: Python
 
 - name: Data Analytics Proffesional Certificate
   descr: The professional certiciation about data analysis which was given by Google
-  demo: https://example.com/
+  demo: https://www.coursera.org/professional-certificates/google-data-analytics
   tags:
     - tag: Spreadsheets
     - tag: SQL
@@ -30,7 +30,7 @@
 
 - name: Sabanci University Summer High School 
   descr: 2 week long summer high school 
-  demo: https://example.com/
+  demo: https://liseyazokulu.sabanciuniv.edu/okul/summer-high-school
   tags:
     - tag: Quantum Physichs
     - tag: Machine Learning
