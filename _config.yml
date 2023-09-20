@@ -125,4 +125,8 @@ exclude:
     "gulpfile.js",
     "node_modules",
     "package.json",
+    "vendor/bundle/",
+    "vendor/cache/",
+    "vendor/gems/",
+    "vendor/ruby/",
   ]
