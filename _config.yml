@@ -124,5 +124,4 @@ exclude:
     "node_modules",
     "package.json",
     "-tmp/"
-    "-/vendors"
   ]
