@@ -1,7 +1,7 @@
 ### VALUES YOU SHOULD CHANGE ###
 
 # GENERAL SITE SETTINGS
-remote_theme: NEUMORPHISM
+remote_theme: neumorphism
 
 
 date: <%= Time.now.strftime('%Y-%m-%d %H:%M:%S %z') %>
