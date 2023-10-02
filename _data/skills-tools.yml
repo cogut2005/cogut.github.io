@@ -16,3 +16,6 @@
 
 - name: Brew
   weight: 4
+
+- name: MySQL
+  weight: 3
